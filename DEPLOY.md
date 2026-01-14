@@ -1,80 +1,62 @@
 # Instamart Category Scraper - Render Deployment Guide
 
-## 🚀 Quick Deploy to Render
+## 🚀 Deploy Using Docker
 
-Your Instamart scraper is now ready for Render deployment!
+Your Instamart scraper **MUST** be deployed using Docker runtime. The Node.js environment has browser installation path issues.
 
 ### Changes Made
 
 ✅ **Enabled headless mode** - Removed Brave browser dependency  
 ✅ **Dynamic PORT** - Uses `process.env.PORT` for Render  
-✅ **Auto-install Playwright** - Browsers install automatically  
-✅ **Render configuration** - `render.yaml` created  
+✅ **Docker deployment** - Uses official Playwright image  
+✅ **Render configuration** - `render.yaml` + `Dockerfile` created  
 
 ---
 
 ## Deployment Steps
 
-### Step 1: Generate Session Files (If Using Pincodes)
+### Step 1: Delete Existing Service (If Already Deployed)
 
-If your scraper requires pincode-based sessions, generate them locally first:
+If you already deployed with Node.js environment:
 
-1. **Temporarily disable headless** in `server.js` (line 352):
-   ```javascript
-   headless: false,  // Change from true to false
-   ```
+1. Go to [Render Dashboard](https://dashboard.render.com/)
+2. Find `instamart-category-scraper`
+3. **Settings** → **Delete Web Service**
 
-2. **Run a test scrape** to create session:
-   ```bash
-   # Make a POST request to your local server
-   curl -X POST http://localhost:4400/instamartcategorywrapper \
-     -H "Content-Type: application/json" \
-     -d '{"url": "https://www.swiggy.com/instamart/category/...", "pincode": "122016"}'
-   ```
+### Step 2: Commit and Push
 
-3. **Session files** will be saved in `sessions/` folder
+```bash
+git add Dockerfile render.yaml package.json server.js .dockerignore .gitignore
+git commit -m "Add Docker deployment for Instamart scraper"
+git push origin main
+```
 
-4. **Re-enable headless mode**:
-   ```javascript
-   headless: true,  // Change back to true
-   ```
+### Step 3: Deploy to Render
 
-5. **Commit session files**:
-   ```bash
-   git add sessions/
-   git commit -m "Add session files"
-   ```
+**Option A: Using Dashboard**
 
-### Step 2: Deploy to Render
-
-1. **Push your code** to GitHub:
-   ```bash
-   git add .
-   git commit -m "Prepare Instamart scraper for Render deployment"
-   git push origin main
-   ```
-
-2. **Go to Render Dashboard**: https://dashboard.render.com/
-
-3. **Create New Web Service**:
-   - Click **"New +"** → **"Web Service"**
-   - Connect your GitHub repository
-   - Select the `instamart-category-scrapper` folder (if monorepo)
-
-4. **Configure Service**:
+1. Go to [Render Dashboard](https://dashboard.render.com/)
+2. Click **"New +"** → **"Web Service"**
+3. Connect your GitHub repository
+4. **IMPORTANT Settings**:
+   - **Environment**: Select **Docker** (NOT Node)
+   - **Dockerfile Path**: `./Dockerfile`
    - **Name**: `instamart-category-scraper`
-   - **Environment**: `Node`
-   - **Build Command**: `npm install`
-   - **Start Command**: `npm start`
-   - **Instance Type**: Free (or paid for better performance)
+   - **Plan**: Free (or paid)
+5. Click **"Create Web Service"**
 
-5. **Deploy**: Click **"Create Web Service"**
+**Option B: Using Blueprint**
+
+1. Push code with `render.yaml` and `Dockerfile`
+2. In Render: **New +** → **Blueprint**
+3. Connect repository
+4. Render will use `render.yaml` automatically
 
 ---
 
 ## Testing Your Deployment
 
-Once deployed, Render will provide a URL like:
+Once deployed, Render provides a URL like:
 ```
 https://instamart-category-scraper.onrender.com
 ```
@@ -91,76 +73,42 @@ curl -X POST https://your-app.onrender.com/instamartcategorywrapper \
 
 ---
 
+## Session Management (Optional)
+
+If using pincode-based sessions, generate them locally first:
+
+1. **Temporarily set headless to false** in `server.js` (line 354)
+2. **Run local server**: `npm start`
+3. **Make test request** to create session
+4. **Re-enable headless mode**
+5. **Commit sessions folder**: `git add sessions/ && git commit -m "Add sessions"`
+6. **Push and redeploy**
+
+---
+
 ## Important Notes
 
-### ⚠️ Session Management
-- **Sessions are pincode-specific**: Each pincode needs its own session file
-- **Location must match**: The scraper validates that the page location matches the requested pincode
-- **Session files must be committed**: Include `sessions/` folder in your repository
+### ⚠️ Docker is Required
+- Node.js environment has Playwright browser path issues
+- Docker image includes all system dependencies
+- More reliable and consistent
 
-### 🔧 Performance Considerations
-- **First request is slow**: Render's free tier spins down after inactivity (~15 min)
-- **Scraping takes time**: The auto-scroll logic can take several minutes for large categories
-- **Memory usage**: Playwright/Chromium requires significant memory
-- **Consider paid tier**: For production use, upgrade to a paid plan for:
-  - No spin-down
-  - More memory
-  - Faster performance
-
-### 📊 Expected Response
-The API returns:
-```json
-{
-  "products": [...],
-  "count": 150,
-  "file": "/path/to/scraped_data_122016_timestamp.json"
-}
-```
+### 🔧 Performance
+- **First request**: 30-60 seconds (cold start)
+- **Scraping time**: Several minutes for large categories
+- **Memory**: Playwright requires significant memory
+- **Paid tier recommended** for production
 
 ### 🐛 Troubleshooting
 
 **Issue**: "Executable doesn't exist" error
-- **Solution**: Make sure `postinstall` script ran. Check build logs for errors.
+- **Solution**: Make sure you selected **Docker** runtime, not Node.js
+
+**Issue**: Build takes too long
+- **Solution**: Normal for first build. Subsequent builds use cached layers.
 
 **Issue**: "Location mismatch" in logs
-- **Solution**: Session file doesn't match the pincode. Regenerate session locally.
-
-**Issue**: Request timeout
-- **Solution**: Category has too many products. Consider:
-  - Limiting scroll time (reduce `maxTime` in `autoScroll`)
-  - Using a paid Render plan with longer timeouts
-
-**Issue**: "Browser launch failed"
-- **Solution**: Check that headless mode is enabled and no local paths are hardcoded
-
----
-
-## Environment Variables (Optional)
-
-Set in Render Dashboard under "Environment":
-- `NODE_ENV=production`
-- `PORT` (automatically set by Render)
-
----
-
-## File Cleanup
-
-The scraper automatically cleans up temporary JSON files after each run:
-- `api_success_*.json`
-- `latest_filter_api.json`
-- `initial_state_dump.json`
-
-Scraped data files (`scraped_data_*.json`) are preserved for debugging.
-
----
-
-## Next Steps
-
-1. ✅ Commit and push all changes
-2. ✅ Deploy to Render
-3. ✅ Test with sample category URL
-4. 🔄 Monitor logs for any issues
-5. 🔄 Optimize scroll settings if needed
+- **Solution**: Session file doesn't match pincode. Regenerate locally.
 
 ---
 
@@ -168,34 +116,18 @@ Scraped data files (`scraped_data_*.json`) are preserved for debugging.
 
 **POST** `/instamartcategorywrapper`
 
-**Request Body**:
+**Request**:
 ```json
 {
   "url": "https://www.swiggy.com/instamart/category/...",
-  "pincode": "122016"  // Optional
+  "pincode": "122016"
 }
 ```
 
 **Response**:
 ```json
 {
-  "products": [
-    {
-      "productId": "...",
-      "productName": "...",
-      "currentPrice": 99,
-      "originalPrice": 120,
-      "discountPercentage": 17,
-      "productImage": "https://...",
-      "productWeight": "500g",
-      "rating": 4.2,
-      "isOutOfStock": false,
-      "productUrl": "https://www.swiggy.com/instamart/item/...",
-      "platform": "instamart",
-      "deliveryTime": "10 mins",
-      "ranking": 1
-    }
-  ],
+  "products": [...],
   "count": 150,
   "file": "..."
 }
