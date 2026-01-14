@@ -1,0 +1,255 @@
+{
+  "cookies": [
+    {
+      "name": "deviceId",
+      "value": "s%3A70391a61-e16c-4926-8346-d7f4fe98b772.FD5Q057ylb5vJduci7W0qy35%2BPu3oDhvqIWfL%2Bak1DI",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.905828,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tid",
+      "value": "s%3A85a3b6db-f849-48e5-9ea7-7ed9eeae3b5b.tp3ygWgbMe8LRcdI3igIe5b6Ps5zG7qpWssMMdrs1dg",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.905944,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sid",
+      "value": "s%3Ap139ae5f-5b7d-4646-8f8b-ca851646deae.tXPwZPVZbgrRHft1rlczYAu9xxVV%2FfBw%2Ff9UYaFB7U8",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1767956953.905997,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "versionCode",
+      "value": "1200",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.906083,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "platform",
+      "value": "web",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.906125,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "subplatform",
+      "value": "dweb",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.906165,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "statusBarHeight",
+      "value": "0",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.906205,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bottomOffset",
+      "value": "0",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.906244,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "genieTrackOn",
+      "value": "false",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.906304,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ally-on",
+      "value": "false",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "isNative",
+      "value": "false",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.906391,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "strId",
+      "value": "",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openIMHP",
+      "value": "false",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545353.906468,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "webBottomBarHeight",
+      "value": "0",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545343.231939,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.446625803.1767953344",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1775729343,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.429366593.1767953345",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802513345.011963,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_VEG1HFE5VZ",
+      "value": "GS2.1.s1767953344$o1$g0$t1767953344$j60$l0$h0",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802513344.760292,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_0XZC5MS97H",
+      "value": "GS2.1.s1767953344$o1$g0$t1767953344$j60$l0$h0",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802513344.942637,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_8N8XRG907L",
+      "value": "GS2.1.s1767953344$o1$g0$t1767953345$j59$l0$h0",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802513345.053984,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "moe_uuid",
+      "value": "5f7510c9-4fd5-4d56-a1f7-808fbc491451",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802513346.014542,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "aws-waf-token",
+      "value": "203ad914-481b-4018-83be-7ce113736777:BQoAtHZHVwsFAAAA:G3Qf14IMctlPxq0rvEzSLnMCAGT9+jmKmLfJeHksjbjsLEmjkRw7XAhWEmJ5ETeE8yK9t3yd2dQ8IDb6Um20vZkhcjFmXPHz7p/cLobPXnHIA/fzPknFhZqEF5WbslS8m1KUVYJ++TML4I3jAPWuAaF56ZvrJMvN/G0BfcLh4Cdx8QD/MxqveO4DK9lJQHnEJ3LyY7tYooQMjUU7a3Z6/pw8Ac6FfRfvfmpMftcts2Q5rlrH50C+CfFzaW6G+AGagvef1c4=",
+      "domain": ".www.swiggy.com",
+      "path": "/",
+      "expires": 1768298946,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userLocation",
+      "value": "%7B%22lat%22%3A28.5079338%2C%22lng%22%3A77.0751538%2C%22address%22%3A%22Gurugram%2C%20Haryana%20122016%2C%20India%22%2C%22id%22%3A%22%22%2C%22annotation%22%3A%22Gurugram%2C%20Haryana%20122016%2C%20India%22%2C%22name%22%3A%22%22%7D",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770545352.970509,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.swiggy.com",
+      "localStorage": [
+        {
+          "name": "awswaf_session_storage",
+          "value": "203ad914-481b-4018-83be-7ce113736777:BQoAtHZHVwwFAAAA:zhQE6jjxxAzZdWyGUSLuMfw329rhaLxWbMLQfCMVlJR5RAxQJcPnZLJzQyCT+lHJr66DOBBZSKKuJ2NooIWgNYPM5St3BLUnpTUXmoP6yKEDQNj2d5VVMd594lBfLgjxR+lBdLk2UKL4/Y+gsHMcB9ch3Gby6cCbR0/BwBJddvQVF12dBWkDgj75BeY3yAliBA2omrjEm3EaghgbM6uCPqRnR+STUIDzUimQVKEpUxgg78nqpBgybU3oWl6CUbr/ITpib5YiihuQXCiLF9LDBnhAHONySN4gnUa5oryTIA9wAp3NKCcEsQkdX4XwRoxo0WFBlq1zp+IzkDXH+1myiph8SJkC7FE36IPPQklGh8aybut9myC7QNA3CsTJLkFG1Ld+l9Bi8GGkVRtjJ+LgluPk8YkQwfoldNaZxF/so4n0Tn4u3LmroPqLRbHMUzc+OXWFWlaGdgyicpRpEEt7v8uP4WGi1WuvScaM65IRa2cMdHAg0ImU9z/NnlHAdozBWg=="
+        },
+        {
+          "name": "MOE_DATA",
+          "value": "{\"INIT_DATA\":{\"integrationType\":\"OLD_SDK\",\"appId\":\"X5VF4KLM4R3TNVZ728BDA0PM\",\"debugLevel\":0,\"sdkEnvironment\":\"LIVE\",\"logLevel\":0,\"cluster\":\"DC_3\",\"environment\":\"sdk-03.moengage.com\",\"baseDomainName\":\"https://sdk-03.moengage.com/\",\"inapp\":null,\"swPath\":null,\"customSoftAsk\":{\"mainClass\":null,\"allowClass\":null,\"dismissClass\":null},\"forceSwUpdate\":null,\"disableOnsite\":false,\"enableSPA\":false,\"disableCookies\":false,\"disableSdk\":false},\"WEB_SETTINGS\":{\"configs\":{\"isBeaconDisabled\":false,\"isCardsModuleEnabled\":false,\"isWebPersonalizationModuleEnabled\":false,\"isCacheEnabledForWebPSelfHandle\":true,\"eventBatchCount\":15,\"logLevel\":null,\"periodicFlushTime\":60,\"isBatchingEnabled\":true,\"sessionInactiveDuration\":1800,\"isRemoteLoggingEnabled\":true,\"sourceExtraParams\":[],\"whitelistedEvents\":[\"MOE_PUSH_PERMISSION_STATE_ALLOWED\",\"MOE_PUSH_PERMISSION_STATE_BLOCKED\"],\"blacklistedEvents\":[],\"blacklistedPortfolioUserAttributes\":[],\"isAppActive\":true,\"remoteLogTracking\":false,\"subscriberBasedBillingAttributes\":[],\"isMultiIdEnabled\":false,\"userAttributeCacheTime\":43200,\"portfolioUserAttributeCacheTime\":43200,\"identityAttributes\":[\"uid\"],\"landingPageTracking\":false},\"settingsVersion\":\"V2\",\"isDomainLevelStorage\":false,\"toShowOverlay\":false,\"loadTime\":0,\"promptAgain\":0,\"optInType\":\"self-handled\",\"isWebPushEnabled\":false,\"optInPreview\":{\"mobile\":{\"nudge\":{\"title\":{\"textColor\":\"#FFFFFF\",\"text\":\"This website would like to send you awesome updates and offers!\"},\"backgroundColor\":\"#000000\",\"icon\":\"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\",\"altText\":\"\"},\"allowButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Allow\",\"backgroundColor\":\"#000000\"},\"dismissButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Don't Allow\",\"backgroundColor\":\"#000000\"},\"logo\":{\"logoUrl\":\"https://app-cdn.moengage.com/images/brand/logo_full_white.png\",\"logoColor\":\"#FFFFFF\",\"altText\":\"Powered By MoEngage\"}},\"web\":{\"banner\":{\"title\":{\"textColor\":\"#FFFFFF\",\"text\":\"This website would like to send you awesome updates and offers!\"},\"body\":{\"textColor\":\"#FFFFFF\",\"text\":\"Notifications can be turned off anytime from browser settings\"},\"backgroundColor\":\"#000000\",\"icon\":\"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\",\"altText\":\"\"},\"allowButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Allow\",\"backgroundColor\":\"#000000\"},\"dismissButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Don't Allow\",\"backgroundColor\":\"#000000\"},\"logo\":{\"logoUrl\":\"https://app-cdn.moengage.com/images/brand/logo_full_white.png\",\"logoColor\":\"#FFFFFF\",\"altText\":\"Powered By MoEngage\"}}},\"overlay\":{\"opera\":{\"mobile\":{\"title\":\"Opera Mobile Preview\",\"text\":\"Tap on Allow button to receive notifications\"},\"desktop\":{\"title\":\"Opera Desktop Preview\",\"text\":\"Click on Allow button to receive notifications\"}},\"chrome\":{\"mobile\":{\"title\":\"Chrome Mobile Preview\",\"text\":\"Tap on Allow button to receive notifications\"},\"desktop\":{\"title\":\"Chrome Desktop Preview\",\"text\":\"Click on Allow button to receive notifications\"}},\"firefox\":{\"mobile\":{\"title\":\"Firefox Mobile Preview\",\"text\":\"Tap on Always button to receive Notifications\"},\"desktop\":{\"title\":\"Firefox Desktop Preview\",\"text\":\"Click on Allow button to receive Notifications\"}}},\"webPushPlatformData\":{\"chrome\":{\"subscriptionMode\":\"vapid\",\"vapidPublicKey\":\"BAXdgrq0dTkfQ0JRBTKz4gIDo-gJZWL9p-dhp3MOE9mtmoMK3SaICUPQjtKsIEdXqOXq7r5cJkhqX67uCkr68M4\"},\"firefox\":{\"subscriptionMode\":\"vapid\",\"vapidPublicKey\":\"BAXdgrq0dTkfQ0JRBTKz4gIDo-gJZWL9p-dhp3MOE9mtmoMK3SaICUPQjtKsIEdXqOXq7r5cJkhqX67uCkr68M4\"}},\"isPushSubBilling\":false,\"isBrandingHidden\":false},\"SETUP_TIME\":1767953345145,\"SDK_VERSION\":\"2.66.00\",\"DEVICE_DATA\":{\"deviceUniqueId\":\"9d82e313-91c4-4b21-b62c-cabd378817f0\"},\"browserDetails\":{\"os\":\"web\",\"osPlatform\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36\",\"isMobile\":false,\"name\":\"Google Chrome\",\"isIncognito\":false},\"USER_DATA\":{\"attributes\":[],\"deviceUuid\":\"5f7510c9-4fd5-4d56-a1f7-808fbc491451\",\"deviceAdded\":true,\"subscribedToOldSdk\":false},\"SESSION\":{\"sessionKey\":\"02c77035-633b-4a2b-8ee8-9be8b6673cdc\",\"sessionStartTime\":\"2026-01-09T10:09:05.513Z\",\"sessionMaxTime\":1800,\"customIdentifiersToTrack\":[],\"sessionExpiryTime\":1767955146022,\"numberOfSessions\":1},\"OPTED_STATUS_TRACK_TIME\":1767953346017}"
+        },
+        {
+          "name": "awswaf_token_refresh_timestamp",
+          "value": "1767953345074"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"creationTimeMs\":1767953343672},\"expires\":1775729343672}}"
+        },
+        {
+          "name": "NRBA_SESSION",
+          "value": "{\"value\":\"11c7bfc7325e083a\",\"inactiveAt\":1767955152467,\"expiresAt\":1767967745165,\"updatedAt\":1767953352467,\"sessionReplayMode\":0,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":0,\"traceHarvestStarted\":false,\"loggingMode\":0,\"serverTimeDiff\":-141,\"custom\":{},\"numOfResets\":0}"
+        },
+        {
+          "name": "TNS_HASH",
+          "value": "6586c2eb28938aeac1c675f95125aacfbcba302cde30c67223abac346f207cc4"
+        }
+      ]
+    }
+  ]
+}

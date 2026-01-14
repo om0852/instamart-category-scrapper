@@ -1,0 +1,277 @@
+{
+  "cookies": [
+    {
+      "name": "deviceId",
+      "value": "s%3A6e1e87b5-a4a1-4ade-a957-8a763e79bbf2.96UYsCF8GIIivnBgWjvbBdyKhV%2BOhV1sJV%2FXIgkVUic",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.607677,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tid",
+      "value": "s%3A4591445d-28bf-4597-9b4f-d31b174b5c5b.26mYiwhUlpmv44pXqW%2FUneJqo%2B%2FaQHBYRU%2FHsag2D8U",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.607876,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sid",
+      "value": "s%3Aoz1cd48c-ebc9-494c-96df-0b4ccf210d73.JagjTUTSjAZxSRegGXIjWHhgZIOJxWHZNGYG%2B%2FhjJGE",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1767689333.608002,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "versionCode",
+      "value": "1200",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.608237,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "platform",
+      "value": "web",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.608348,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "subplatform",
+      "value": "dweb",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.608462,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "statusBarHeight",
+      "value": "0",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.608575,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bottomOffset",
+      "value": "0",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.608688,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "genieTrackOn",
+      "value": "false",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.608855,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ally-on",
+      "value": "false",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "isNative",
+      "value": "false",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.609074,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "strId",
+      "value": "",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "openIMHP",
+      "value": "false",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.60924,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "webBottomBarHeight",
+      "value": "0",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277721.475275,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.786187994.1767685722",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1775461722,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1031826916.1767685725",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802245725.515425,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_8N8XRG907L",
+      "value": "GS2.1.s1767685725$o1$g0$t1767685727$j58$l0$h0",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802245727.103941,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_VEG1HFE5VZ",
+      "value": "GS2.1.s1767685725$o1$g0$t1767685727$j58$l0$h0",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802245727.156859,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_0XZC5MS97H",
+      "value": "GS2.1.s1767685725$o1$g0$t1767685727$j58$l0$h0",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802245727.172851,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1767685727695.644876137922414781",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1775461733,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "moe_uuid",
+      "value": "d4c0dc82-33a8-4298-8cde-0b8d58e200ea",
+      "domain": ".swiggy.com",
+      "path": "/",
+      "expires": 1802245729.255014,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "userLocation",
+      "value": "%7B%22lat%22%3A28.5613345%2C%22lng%22%3A77.3496708%2C%22address%22%3A%22Noida%2C%20Uttar%20Pradesh%20201303%2C%20India%22%2C%22id%22%3A%22%22%2C%22annotation%22%3A%22Noida%2C%20Uttar%20Pradesh%20201303%2C%20India%22%2C%22name%22%3A%22%22%7D",
+      "domain": "www.swiggy.com",
+      "path": "/",
+      "expires": 1770277733.599931,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "aws-waf-token",
+      "value": "67de0f33-b276-47f5-8458-617e88b70aa7:BQoAYPY1NODgAAAA:xbOGxo9abE/cRJNAQbpZxw5BXRd2f3HT8cZIhAp398Vtdwd8kNCTcDlyqZsoBEcgGoDDWtQfPOTkLlxUQJ9+/ClZkT/lINpX04kMBzJ1cUAZu7HmxI5gh3bFvY4EmJkRqEvEqGea/MKr/f63VPsl0OIp4NoU9JcMQFcaq8JZ6I1l3iyfm4lBKTiA9iQqsWyOMfKdqjmLSRXgnIcMdA6CR6KoWBquDP/NIO8LygRwtP2v0kLmVgmuvsxmhFauMnhq/daObek=",
+      "domain": ".www.swiggy.com",
+      "path": "/",
+      "expires": 1768031334,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.swiggy.com",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1767685727669"
+        },
+        {
+          "name": "NRBA_SESSION",
+          "value": "{\"value\":\"284c41fec4088de7\",\"inactiveAt\":1767687533332,\"expiresAt\":1767700129013,\"updatedAt\":1767685733332,\"sessionReplayMode\":0,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":0,\"traceHarvestStarted\":false,\"loggingMode\":0,\"serverTimeDiff\":-4059,\"custom\":{},\"numOfResets\":0}"
+        },
+        {
+          "name": "TNS_HASH",
+          "value": "22eb9e5fc4c551f024c5af990be1285a36d88745d94ca24e30fa3f7b1ff4ccc0"
+        },
+        {
+          "name": "topicsLastReferenceTime",
+          "value": "1767685733348"
+        },
+        {
+          "name": "awswaf_token_refresh_timestamp",
+          "value": "1767685723712"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"creationTimeMs\":1767685722230},\"expires\":1775461722230}}"
+        },
+        {
+          "name": "awswaf_session_storage",
+          "value": "67de0f33-b276-47f5-8458-617e88b70aa7:BQoAYPY1NOHgAAAA:gah8WKgM2RWzLE24K3yOR688YhgCeHyK/b2tE7KR4P/MiDdnRjz7zTMGbmmY0ekADJaDB9DknCDd26e8W05Q1B5ijowWnQdCYMDMsnzPe8TYYXsCudcY2KE8Q4zZgGo0q5M8QLfYlr7KD27Qs5N4XbKWHKSYvYdBe8X8UwzzE/4wblYqTj8pFlwKpsf80Kddk9BTNmIRCkNMq1KC0RezmEixgNDG2c9OyhAl3Wa/A1FWQn3loUwCsZo6v5v7CI75q7cBynqvlBLq8GYEjlQp0mD7GoRI1TOZaT1h6QzAbCzhao0Znmit5+pXZC0PYNirb15sVg0Y3fuR7xVHccMOtZErfeAMPtB+zNgYE4Bwp+UfU4TG0JZSI3vXUHDiVy7nsJ9Xg42XT3M/wwSHO30CNTo6c2saiC8P3LbNzPQlTpG5h+fvVACfnuKyPhmk8Tc4ZsvKE09bSP+6d9h98P2erbdhkVomo9s1aLsqWSrepvEOHYfZLOi2hFFiqpYixdLmnJgq0LwZTL0otIxcKmzZDR1MiBIG98S5kJb2A1dlE4kiOFElX0PrFKF3pGho+xSNVlKwH6I+sH56nKbCbePC+/eI5Q=="
+        },
+        {
+          "name": "MOE_DATA",
+          "value": "{\"INIT_DATA\":{\"integrationType\":\"OLD_SDK\",\"appId\":\"X5VF4KLM4R3TNVZ728BDA0PM\",\"debugLevel\":0,\"cluster\":\"DC_3\",\"environment\":\"sdk-03.moengage.com\",\"baseDomainName\":\"https://sdk-03.moengage.com/\",\"inapp\":null,\"swPath\":null,\"customSoftAsk\":{\"mainClass\":null,\"allowClass\":null,\"dismissClass\":null},\"forceSwUpdate\":null,\"disableOnsite\":false,\"enableSPA\":false,\"disableCookies\":false,\"disableSdk\":false},\"WEB_SETTINGS\":{\"configs\":{\"isBeaconDisabled\":false,\"isCardsModuleEnabled\":false,\"isWebPersonalizationModuleEnabled\":false,\"isCacheEnabledForWebPSelfHandle\":true,\"eventBatchCount\":15,\"logLevel\":null,\"periodicFlushTime\":60,\"isBatchingEnabled\":true,\"sessionInactiveDuration\":1800,\"isRemoteLoggingEnabled\":true,\"sourceExtraParams\":[],\"whitelistedEvents\":[\"MOE_PUSH_PERMISSION_STATE_ALLOWED\",\"MOE_PUSH_PERMISSION_STATE_BLOCKED\"],\"blacklistedEvents\":[],\"blacklistedPortfolioUserAttributes\":[],\"isAppActive\":true,\"remoteLogTracking\":false,\"subscriberBasedBillingAttributes\":[],\"isMultiIdEnabled\":false,\"userAttributeCacheTime\":43200,\"portfolioUserAttributeCacheTime\":43200,\"identityAttributes\":[\"uid\"],\"landingPageTracking\":false},\"settingsVersion\":\"V2\",\"isDomainLevelStorage\":false,\"toShowOverlay\":false,\"loadTime\":0,\"promptAgain\":0,\"optInType\":\"self-handled\",\"isWebPushEnabled\":false,\"optInPreview\":{\"mobile\":{\"nudge\":{\"title\":{\"textColor\":\"#FFFFFF\",\"text\":\"This website would like to send you awesome updates and offers!\"},\"backgroundColor\":\"#000000\",\"icon\":\"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\",\"altText\":\"\"},\"allowButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Allow\",\"backgroundColor\":\"#000000\"},\"dismissButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Don't Allow\",\"backgroundColor\":\"#000000\"},\"logo\":{\"logoUrl\":\"https://app-cdn.moengage.com/images/brand/logo_full_white.png\",\"logoColor\":\"#FFFFFF\",\"altText\":\"Powered By MoEngage\"}},\"web\":{\"banner\":{\"title\":{\"textColor\":\"#FFFFFF\",\"text\":\"This website would like to send you awesome updates and offers!\"},\"body\":{\"textColor\":\"#FFFFFF\",\"text\":\"Notifications can be turned off anytime from browser settings\"},\"backgroundColor\":\"#000000\",\"icon\":\"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\",\"altText\":\"\"},\"allowButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Allow\",\"backgroundColor\":\"#000000\"},\"dismissButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Don't Allow\",\"backgroundColor\":\"#000000\"},\"logo\":{\"logoUrl\":\"https://app-cdn.moengage.com/images/brand/logo_full_white.png\",\"logoColor\":\"#FFFFFF\",\"altText\":\"Powered By MoEngage\"}}},\"overlay\":{\"opera\":{\"mobile\":{\"title\":\"Opera Mobile Preview\",\"text\":\"Tap on Allow button to receive notifications\"},\"desktop\":{\"title\":\"Opera Desktop Preview\",\"text\":\"Click on Allow button to receive notifications\"}},\"chrome\":{\"mobile\":{\"title\":\"Chrome Mobile Preview\",\"text\":\"Tap on Allow button to receive notifications\"},\"desktop\":{\"title\":\"Chrome Desktop Preview\",\"text\":\"Click on Allow button to receive notifications\"}},\"firefox\":{\"mobile\":{\"title\":\"Firefox Mobile Preview\",\"text\":\"Tap on Always button to receive Notifications\"},\"desktop\":{\"title\":\"Firefox Desktop Preview\",\"text\":\"Click on Allow button to receive Notifications\"}}},\"webPushPlatformData\":{\"chrome\":{\"subscriptionMode\":\"vapid\",\"vapidPublicKey\":\"BAXdgrq0dTkfQ0JRBTKz4gIDo-gJZWL9p-dhp3MOE9mtmoMK3SaICUPQjtKsIEdXqOXq7r5cJkhqX67uCkr68M4\"},\"firefox\":{\"subscriptionMode\":\"vapid\",\"vapidPublicKey\":\"BAXdgrq0dTkfQ0JRBTKz4gIDo-gJZWL9p-dhp3MOE9mtmoMK3SaICUPQjtKsIEdXqOXq7r5cJkhqX67uCkr68M4\"}},\"isPushSubBilling\":false,\"isBrandingHidden\":false},\"SETUP_TIME\":1767685728971,\"SDK_VERSION\":\"2.65.02\",\"DEVICE_DATA\":{\"deviceUniqueId\":\"c436835a-5e8a-4605-b651-1f2479d2a1dc\"},\"browserDetails\":{\"os\":\"web\",\"osPlatform\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36\",\"isMobile\":false,\"name\":\"Google Chrome\",\"isIncognito\":false},\"USER_DATA\":{\"attributes\":[],\"deviceUuid\":\"d4c0dc82-33a8-4298-8cde-0b8d58e200ea\",\"deviceAdded\":true,\"subscribedToOldSdk\":false},\"SESSION\":{\"sessionKey\":\"337026ba-b0f7-46cc-bd5c-b2266eb8aa6b\",\"sessionStartTime\":\"2026-01-06T07:48:49.133Z\",\"sessionMaxTime\":1800,\"customIdentifiersToTrack\":[],\"sessionExpiryTime\":1767687529264,\"numberOfSessions\":1},\"OPTED_STATUS_TRACK_TIME\":1767685729258}"
+        }
+      ]
+    }
+  ]
+}

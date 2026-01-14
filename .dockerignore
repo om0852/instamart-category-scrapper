@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+.env
+.DS_Store
+*.log
+.git/
+server copy.js
+api_*.json
+scraped_data_*.json
+initial_state_dump.json
+latest_filter_api.json

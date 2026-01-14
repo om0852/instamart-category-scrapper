@@ -1,0 +1,2216 @@
+{
+  "data": {
+    "statusMessage": "",
+    "pageOffset": null,
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "header": null,
+            "layout": {
+              "rows": 1,
+              "columns": 1,
+              "horizontalScrollEnabled": false,
+              "shouldSnap": false,
+              "itemSpacing": 0,
+              "lineSpacing": 0,
+              "widgetPadding": null,
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 12,
+                  "top": 0,
+                  "right": 12,
+                  "bottom": 18
+                },
+                "containerCornerRadius": null,
+                "containerColor": "",
+                "containerSeparatorConfig": null,
+                "containerBackgroundGradient": null,
+                "elevation": "ELEVATION_LEVEL_INVALID"
+              },
+              "viewPort": 0,
+              "scrollBar": null,
+              "autoScrollConfig": null,
+              "separatorConfig": null,
+              "backgroundColor": "",
+              "widgetBorderStyle": null,
+              "widgetTheme": null,
+              "ordering": "ORDERING_INVALID",
+              "dotScrollBar": null,
+              "displayStyle": "",
+              "backgroundAssetId": "",
+              "pageScrollBar": null,
+              "scrollAnimationType": "SCROLL_ANIMATION_TYPE_INVALID",
+              "foregroundAsset": null,
+              "isInfiniteScroll": false,
+              "backgroundInfo": null,
+              "gyroConfig": null
+            },
+            "id": "",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+                "viewType": "VIEW_TYPE_FULL_WIDTH",
+                "items": [
+                  {
+                    "displayName": "Huber & Holly Belgian Chocolate & Brownie Ice Cream Tub",
+                    "brand": "Huber & Holly",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "XMINNC7QR7",
+                        "spinId": "4E6VVQUWRS",
+                        "quantityDescription": "500 ml",
+                        "displayName": "Huber & Holly Belgian Chocolate & Brownie Ice Cream Tub",
+                        "brandName": "Huber & Holly",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/CIW/2025/9/28/f57a11e9-9729-43f0-9f0d-fca2f642caf8_981974_1.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/28/a4aa534d-2c67-4f21-b430-0430bade0c8a_981974_2.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/28/2ddf7605-54a2-4b12-a650-dfa9b8bca776_981974_3.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/28/b347ede6-fec7-4d98-ac5a-44ea82667277_981974_4.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/28/72fcf8c2-a3f2-4709-be98-0d8c664cb6e2_981974_5.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "320",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "192",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "128",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "40% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "40% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 1000,
+                          "widthInCm": 1,
+                          "heightInCm": 1,
+                          "volumeInCc": 1000
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 3,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 500,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "Rich brownie and chocolate ice cream",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/28/f57a11e9-9729-43f0-9f0d-fca2f642caf8_981974_1.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/28/a4aa534d-2c67-4f21-b430-0430bade0c8a_981974_2.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/28/2ddf7605-54a2-4b12-a650-dfa9b8bca776_981974_3.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/28/b347ede6-fec7-4d98-ac5a-44ea82667277_981974_4.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/28/72fcf8c2-a3f2-4709-be98-0d8c664cb6e2_981974_5.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "4.3",
+                          "valueColor": "positive",
+                          "count": "1k",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": [
+                          {
+                            "type": "OFFER_TYPE_PAYMENT_OFFER",
+                            "text": "₹111 OFF",
+                            "subText": "Payment Offers",
+                            "textColor": "text_color_highest_emphasis",
+                            "subTextColor": "text_color_low_emphasis",
+                            "offerValue": "111",
+                            "icons": [
+                              "1f84e0d6371b0902e1a8b6f291fbd8d6",
+                              "dada711c7c4beb0337306fdf63d03a51"
+                            ],
+                            "cta": {
+                              "link": "https://webviews.swiggy.com/portal-static-page/emi_details/?spin_id=4E6VVQUWRS&pod_id=1398757&item_type=ITEM_TYPE_PAYMENT_OFFER",
+                              "text": "",
+                              "type": "",
+                              "metaInfo": null,
+                              "subtext": "",
+                              "disabledText": "",
+                              "additionalInfo": null,
+                              "strikethroughText": "",
+                              "tooltip": null,
+                              "dlsType": "",
+                              "analytics": null,
+                              "creativeId": ""
+                            },
+                            "additionalInfo": null
+                          }
+                        ]
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"XMINNC7QR7\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "P61GXMP4U1",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "L8IT2IRZ18"
+                  }
+                ],
+                "itemStyle": {
+                  "width": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.5,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_DEVICE_WIDTH"
+                  },
+                  "height": {
+                    "type": "TYPE_ABSOLUTE",
+                    "value": 255,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_INVALID"
+                  }
+                },
+                "themedItemStyle": null,
+                "themeType": "THEME_TYPE_INVALID",
+                "variantAttributes": null
+              }
+            },
+            "footer": null,
+            "meta": null,
+            "analytics": {
+              "screenName": "",
+              "context": "",
+              "objectValue": "",
+              "impressionObjectName": "",
+              "clickObjectName": "",
+              "attributionContext": "",
+              "extraFields": {},
+              "position": 0
+            },
+            "animation": null,
+            "scrollAnchor": null,
+            "frequencyCapping": null,
+            "entityId": "",
+            "entityType": ""
+          },
+          "relevance": null
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.im.v1.TabularCard",
+            "title": "Highlights",
+            "content": {
+              "XMINNC7QR7": {
+                "lineItems": [
+                  {
+                    "title": "Pack Size",
+                    "description": "500 ml"
+                  }
+                ]
+              }
+            },
+            "expand": false,
+            "analytics": null
+          },
+          "relevance": null
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.im.v1.InfoCard",
+            "title": "Description",
+            "description": "<ul><li>Relish the decadence of Huber and Holly Belgian Chocolate Ice Cream. Enhanced with chunks of gooey brownies, this creamy dessert is made for ultimate indulgence.</li></ul>\n<ul><li>- This item is eligible for a refund within 2 days of purchase in the unlikely event of a damaged, defective, or incorrect item.</li><li>- In case of an incorrect item, a refund or replacement request can be raised only if the item is sealed, unopened, and unused.</li></ul>",
+            "expand": false,
+            "viewType": "VIEW_TYPE_INNER",
+            "analytics": null,
+            "additionalInfo": []
+          },
+          "relevance": null
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.im.v1.ActionCard",
+            "imageId": "InstamartAssets/Bleed%20Blue/PDP%20Brand.png",
+            "cta": {
+              "link": "swiggy://stores/instamart/collection-listing?collectionId=106463&custom_back=true&brand=Huber%20%26%20Holly",
+              "text": "Explore all Huber & Holly items",
+              "type": "",
+              "metaInfo": null,
+              "subtext": "",
+              "disabledText": "",
+              "additionalInfo": null,
+              "strikethroughText": "",
+              "tooltip": null,
+              "dlsType": "",
+              "analytics": null,
+              "creativeId": ""
+            },
+            "analytics": {
+              "screenName": "",
+              "context": "{}",
+              "objectValue": "",
+              "impressionObjectName": "impression-menu-widget",
+              "clickObjectName": "click-cta",
+              "attributionContext": "",
+              "extraFields": {
+                "collectionId": "106463",
+                "widgetId": "159321"
+              },
+              "position": 0
+            },
+            "items": []
+          },
+          "relevance": null
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "header": {
+              "title": "Similar Products",
+              "subtitle": "",
+              "action": null,
+              "imageId": "",
+              "headerStyling": {
+                "padding": {
+                  "left": 16,
+                  "top": 12,
+                  "right": 16,
+                  "bottom": 2
+                },
+                "titleSize": 0,
+                "subtitleSize": 0,
+                "titleColor": "text_high_emphasis",
+                "subtitleColor": "",
+                "titleFontName": "FONT_NAME_V2_BODY1_NEUTRAL_BOLD",
+                "subtitleTopPadding": 0,
+                "imageStyle": null,
+                "showSeparator": false,
+                "subtitleFontName": "FONT_NAME_INVALID",
+                "colorMap": {},
+                "gradientStyle": null,
+                "alignment": "ALIGNMENT_INVALID"
+              },
+              "leadingText": "",
+              "visibility": false,
+              "tooltip": "",
+              "analytics": null,
+              "collapseConfig": null,
+              "secondaryAction": null,
+              "shareCta": null,
+              "isBackNavigation": false,
+              "chevronHidden": false,
+              "subtitlePrefixIcon": ""
+            },
+            "layout": {
+              "rows": 1,
+              "columns": 10,
+              "horizontalScrollEnabled": true,
+              "shouldSnap": false,
+              "itemSpacing": 8,
+              "lineSpacing": 0,
+              "widgetPadding": null,
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 16,
+                  "top": 12,
+                  "right": 16,
+                  "bottom": 12
+                },
+                "containerCornerRadius": null,
+                "containerColor": "",
+                "containerSeparatorConfig": null,
+                "containerBackgroundGradient": null,
+                "elevation": "ELEVATION_LEVEL_INVALID"
+              },
+              "viewPort": 0,
+              "scrollBar": null,
+              "autoScrollConfig": null,
+              "separatorConfig": null,
+              "backgroundColor": "",
+              "widgetBorderStyle": null,
+              "widgetTheme": null,
+              "ordering": "ORDERING_INVALID",
+              "dotScrollBar": null,
+              "displayStyle": "",
+              "backgroundAssetId": "",
+              "pageScrollBar": null,
+              "scrollAnimationType": "SCROLL_ANIMATION_TYPE_INVALID",
+              "foregroundAsset": null,
+              "isInfiniteScroll": false,
+              "backgroundInfo": null,
+              "gyroConfig": null
+            },
+            "id": "159322",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+                "viewType": "VIEW_TYPE_OPEN_ITEM_COLLECTION_V3",
+                "items": [
+                  {
+                    "displayName": "Huber & Holly Butterscotch and Praline Ice Cream Tub",
+                    "brand": "Huber & Holly",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "MS7JQILX7K",
+                        "spinId": "JLY3KSIUGP",
+                        "quantityDescription": "500 ml",
+                        "displayName": "Huber & Holly Butterscotch and Praline Ice Cream Tub",
+                        "brandName": "Huber & Holly",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/ciw/2025/2/17/061e6628-eca3-4caf-ad47-e526f56793b7_124090_1_20250217_134355.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/2/17/1f2849f1-dd9c-481e-9e65-46b699511125_124090_2_20250217_134355.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/2/17/b698c919-3e03-42df-b753-d2178b39bdec_124090_3_20250217_134356.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "270",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "216",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "54",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "20% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 14,
+                          "widthInCm": 9,
+                          "heightInCm": 8,
+                          "volumeInCc": 1008
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 360,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "Rich butterscotch bliss with a golden praline crunch.",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/2/17/061e6628-eca3-4caf-ad47-e526f56793b7_124090_1_20250217_134355.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/VIDEOS/CIW/2025/6/20/0924e774-07c5-47ec-ad91-38717b6c6468_394715_2.mp4",
+                            "thumbnailId": "NI_CATALOG/IMAGES/ciw/2025/2/17/061e6628-eca3-4caf-ad47-e526f56793b7_124090_1_20250217_134355.png",
+                            "type": "MEDIA_TYPE_VIDEO",
+                            "aspectRatio": {
+                              "width": 1,
+                              "height": 1
+                            }
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/2/17/1f2849f1-dd9c-481e-9e65-46b699511125_124090_2_20250217_134355.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/2/17/b698c919-3e03-42df-b753-d2178b39bdec_124090_3_20250217_134356.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "4.0",
+                          "valueColor": "positive",
+                          "count": "938",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"MS7JQILX7K\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "BD3PQE7MXS",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "BORSS35XVV"
+                  },
+                  {
+                    "displayName": "Huber & Holly Italian Amarena Cherry Ice Cream Tub",
+                    "brand": "Huber & Holly",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "Z73RL8VG2K",
+                        "spinId": "KV2VEWPEW6",
+                        "quantityDescription": "500 ml",
+                        "displayName": "Huber & Holly Italian Amarena Cherry Ice Cream Tub",
+                        "brandName": "Huber & Holly",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/ciw/2025/3/26/8edaa169-6dd7-44dc-a2b3-ea0e00d47db1_124167_1_20250326_111014.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/3/8/61d325d5-d3c4-4a38-8cc7-57848750f38d_337716_2.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/3/26/3917360b-28b9-4a81-b34c-fab067ad7ce8_124167_2_20250326_111015.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/3/26/a8ec8945-2afe-444a-be46-486d3a49f05a_124167_3_20250326_111015.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "400",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "320",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "80",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "20% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 14,
+                          "widthInCm": 9,
+                          "heightInCm": 8,
+                          "volumeInCc": 1008
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 350,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "Velvety vanilla ice cream swirled with rich Amarena cherry and juicy cherry bits.",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/3/26/8edaa169-6dd7-44dc-a2b3-ea0e00d47db1_124167_1_20250326_111014.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/VIDEOS/CIW/2025/9/13/eafacc7d-a34f-448b-98a9-acaa5c3389ca_337716_2.mp4",
+                            "thumbnailId": "NI_CATALOG/IMAGES/ciw/2025/3/26/8edaa169-6dd7-44dc-a2b3-ea0e00d47db1_124167_1_20250326_111014.png",
+                            "type": "MEDIA_TYPE_VIDEO",
+                            "aspectRatio": {
+                              "width": 1,
+                              "height": 1
+                            }
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/3/8/61d325d5-d3c4-4a38-8cc7-57848750f38d_337716_2.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/3/26/3917360b-28b9-4a81-b34c-fab067ad7ce8_124167_2_20250326_111015.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/3/26/a8ec8945-2afe-444a-be46-486d3a49f05a_124167_3_20250326_111015.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [
+                          "Cherry"
+                        ],
+                        "rating": {
+                          "value": "3.7",
+                          "valueColor": "positive",
+                          "count": "511",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"Z73RL8VG2K\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "PAHG1FWNVM",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "9G1VX6G749"
+                  },
+                  {
+                    "displayName": "Huber & Holly Coconut and Macaroons Ice Cream Tub",
+                    "brand": "Huber & Holly",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "U8J235DNYN",
+                        "spinId": "ME32JXT129",
+                        "quantityDescription": "500 ml",
+                        "displayName": "Huber & Holly Coconut and Macaroons Ice Cream Tub",
+                        "brandName": "Huber & Holly",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/CIW/2025/9/23/0a6d97ef-24cf-48ff-b3c0-2d840d052899_912828_1.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/23/b4956ed6-eca3-4a3d-a7a7-3e3b8a612f17_912828_2.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/23/3642e7d0-25f8-4d85-bf37-4b9b963864d4_912828_3.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "320",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "256",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "64",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "20% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 14,
+                          "widthInCm": 9,
+                          "heightInCm": 8,
+                          "volumeInCc": 1008
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 362,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "serving coconut for every occasions",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/23/0a6d97ef-24cf-48ff-b3c0-2d840d052899_912828_1.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/VIDEOS/CIW/2025/9/13/50ac7faa-fd1a-4fcb-a133-e15ae7eb22f5_912828_2.mp4",
+                            "thumbnailId": "NI_CATALOG/IMAGES/CIW/2025/9/23/0a6d97ef-24cf-48ff-b3c0-2d840d052899_912828_1.png",
+                            "type": "MEDIA_TYPE_VIDEO",
+                            "aspectRatio": {
+                              "width": 1,
+                              "height": 1
+                            }
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/23/b4956ed6-eca3-4a3d-a7a7-3e3b8a612f17_912828_2.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/23/3642e7d0-25f8-4d85-bf37-4b9b963864d4_912828_3.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "3.9",
+                          "valueColor": "positive",
+                          "count": "488",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"U8J235DNYN\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "KO4NSJDI7A",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "HFUWH04K9N"
+                  },
+                  {
+                    "displayName": "Huber & Holly Sicilian Pistachio Ice Cream Tub",
+                    "brand": "Huber & Holly",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "JJ4LYXHO9X",
+                        "spinId": "KJNHMIOH06",
+                        "quantityDescription": "500 ml",
+                        "displayName": "Huber & Holly Sicilian Pistachio Ice Cream Tub",
+                        "brandName": "Huber & Holly",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/CIW/2025/9/28/28d95ed9-5ea2-4939-bc86-a333de56e8e3_605281_1.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/28/7ac19249-ad62-4f99-bf7c-49c1f79e3328_605281_2.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/28/66911d7e-f725-4f68-9101-ec172953ab26_605281_3.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/28/4be54cfd-b56f-4c81-adb3-d2bbf0b2886a_605281_4.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "360",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "288",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "72",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "20% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 14,
+                          "widthInCm": 9,
+                          "heightInCm": 8,
+                          "volumeInCc": 1008
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 342,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "Pista flavour, Taste like heaven !",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/28/28d95ed9-5ea2-4939-bc86-a333de56e8e3_605281_1.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/VIDEOS/CIW/2025/9/13/7da6b1fd-ce80-4bd9-96d7-fc022c68e29d_605281_2.mp4",
+                            "thumbnailId": "NI_CATALOG/IMAGES/CIW/2025/9/28/28d95ed9-5ea2-4939-bc86-a333de56e8e3_605281_1.png",
+                            "type": "MEDIA_TYPE_VIDEO",
+                            "aspectRatio": {
+                              "width": 1,
+                              "height": 1
+                            }
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/28/7ac19249-ad62-4f99-bf7c-49c1f79e3328_605281_2.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/28/66911d7e-f725-4f68-9101-ec172953ab26_605281_3.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/28/4be54cfd-b56f-4c81-adb3-d2bbf0b2886a_605281_4.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [
+                          "Pista"
+                        ],
+                        "rating": {
+                          "value": "3.9",
+                          "valueColor": "positive",
+                          "count": "746",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"JJ4LYXHO9X\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "RD0QRIZ4Y0",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "2833XAA3JN"
+                  },
+                  {
+                    "displayName": "Huber & Holly Salted Caramel Popcorn Ice Cream Tub",
+                    "brand": "Huber & Holly",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "0H2XLVJH3V",
+                        "spinId": "KV0GDDXJS1",
+                        "quantityDescription": "500 ml",
+                        "displayName": "Huber & Holly Salted Caramel Popcorn Ice Cream Tub",
+                        "brandName": "Huber & Holly",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/CIW/2025/9/23/8f739eaa-9182-45b1-82bb-fc834695c5cd_801871_1.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/23/4531a168-ce5e-4cb5-bdfe-af2f6f2b5606_801871_2.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/23/11de93b5-0bf9-46b7-bdcf-f5fb379e81a2_801871_3.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/9/23/e9b6aaad-a629-4437-a2f5-b38bd0fc37db_801871_4.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "370",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "296",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "74",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "20% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "20% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 14,
+                          "widthInCm": 9,
+                          "heightInCm": 8,
+                          "volumeInCc": 1008
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 350,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "Sweet, salty, and packed with caramel popcorn crunch.",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/23/8f739eaa-9182-45b1-82bb-fc834695c5cd_801871_1.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/VIDEOS/CIW/2025/6/20/a2ad99cb-7d53-4f8f-a559-4d3fe9bd4854_801871_2.mp4",
+                            "thumbnailId": "NI_CATALOG/IMAGES/CIW/2025/9/23/8f739eaa-9182-45b1-82bb-fc834695c5cd_801871_1.png",
+                            "type": "MEDIA_TYPE_VIDEO",
+                            "aspectRatio": {
+                              "width": 1,
+                              "height": 1
+                            }
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/23/4531a168-ce5e-4cb5-bdfe-af2f6f2b5606_801871_2.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/23/11de93b5-0bf9-46b7-bdcf-f5fb379e81a2_801871_3.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/9/23/e9b6aaad-a629-4437-a2f5-b38bd0fc37db_801871_4.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "4.0",
+                          "valueColor": "positive",
+                          "count": "279",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"0H2XLVJH3V\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "LSG3H0GQCY",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "C3ILH10VG9"
+                  },
+                  {
+                    "displayName": "Huber & Holly Baked Strawberry Cheesecake Ice Cream Tub",
+                    "brand": "Huber & Holly",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "TWWLIO8WOY",
+                        "spinId": "RI0IJ2972E",
+                        "quantityDescription": "500 ml",
+                        "displayName": "Huber & Holly Baked Strawberry Cheesecake Ice Cream Tub",
+                        "brandName": "Huber & Holly",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/ciw/2025/2/25/29837e03-3a40-4ae3-bdfb-b2c161659ddc_124170_1_20250225_115126.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/2/25/b5f47f1e-ed75-49fe-afc9-dd357cd47626_124170_2_20250225_115127.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/2/25/07778eb3-eedc-414c-b273-0173a4e49b3f_124170_3_20250225_115127.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "370",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "222",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "148",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "40% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "40% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 14,
+                          "widthInCm": 9,
+                          "heightInCm": 8,
+                          "volumeInCc": 1008
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 339,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "Decadent Indulgence, Baked Cheesecake Flavor.",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/2/25/29837e03-3a40-4ae3-bdfb-b2c161659ddc_124170_1_20250225_115126.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/2/25/b5f47f1e-ed75-49fe-afc9-dd357cd47626_124170_2_20250225_115127.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/2/25/07778eb3-eedc-414c-b273-0173a4e49b3f_124170_3_20250225_115127.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "3.9",
+                          "valueColor": "positive",
+                          "count": "481",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"TWWLIO8WOY\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "YGHGEHPW9C",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "9SFDBTI2VG"
+                  },
+                  {
+                    "displayName": "NOTO Belgian Chocolate Ice cream",
+                    "brand": "NOTO",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "X2RCRK6AZX",
+                        "spinId": "DELK841Z8R",
+                        "quantityDescription": "500 ml",
+                        "displayName": "NOTO Belgian Chocolate Ice cream",
+                        "brandName": "NOTO",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/ciw/2025/8/1/0be17d94-8999-4022-bbc5-248a0b8a3661_NPI-017141_1_20250801_054629.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/8/1/9421f0a6-5cea-4ce6-afd4-8f25717c44e0_NPI-017141_2_20250801_054629.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/8/1/98b17a7b-278e-4eb4-9ebc-201460fa3302_NPI-017141_3_20250801_054630.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/8/1/40242bee-4ada-4596-8896-3faabb7c4cf1_NPI-017141_4_20250801_054630.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/8/1/0819823b-c088-4675-8f09-c9da5ec67fe9_NPI-017141_5_20250801_054631.png",
+                          "NI_CATALOG/IMAGES/ciw/2025/8/1/d4316e98-fbb3-493a-bd17-6abcbfe67f6c_NPI-017141_6_20250801_054631.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "500",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "460",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "40",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "8% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "8% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 1000,
+                          "widthInCm": 1,
+                          "heightInCm": 1,
+                          "volumeInCc": 1000
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 500,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/8/1/0be17d94-8999-4022-bbc5-248a0b8a3661_NPI-017141_1_20250801_054629.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/8/1/9421f0a6-5cea-4ce6-afd4-8f25717c44e0_NPI-017141_2_20250801_054629.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/8/1/98b17a7b-278e-4eb4-9ebc-201460fa3302_NPI-017141_3_20250801_054630.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/8/1/40242bee-4ada-4596-8896-3faabb7c4cf1_NPI-017141_4_20250801_054630.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/8/1/0819823b-c088-4675-8f09-c9da5ec67fe9_NPI-017141_5_20250801_054631.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/ciw/2025/8/1/d4316e98-fbb3-493a-bd17-6abcbfe67f6c_NPI-017141_6_20250801_054631.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "3.4",
+                          "valueColor": "positive",
+                          "count": "15",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"X2RCRK6AZX\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "3HGFCJ7R8D",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "307BGYWT3I"
+                  },
+                  {
+                    "displayName": "Go Zero Belgian Dark Chocolate Low Calorie Guilt Free Ice Cream Tub",
+                    "brand": "Go Zero",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "9IO9DDPHZK",
+                        "spinId": "RNQ5VVQABR",
+                        "quantityDescription": "500 ml",
+                        "displayName": "Go Zero Belgian Dark Chocolate Low Calorie Guilt Free Ice Cream Tub",
+                        "brandName": "Go Zero",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/CIW/2025/11/28/828e564d-c1b3-47cd-aab3-d9305216eea1_424178_1.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/11/28/a13f5f9c-764c-428d-9652-19aa733ffe4a_424178_2.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/11/28/913a689e-67e3-4f05-a8b9-b0fcf3ed1efe_424178_3.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/11/28/7f7b189d-f8a8-47e1-afe5-847e3dab3205_424178_4.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/11/28/572e3cfa-a960-4067-bdc6-affdc67809ab_424178_5.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/11/28/3f175595-6b19-44d0-984e-be2fe40d4b09_424178_6.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "380",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "285",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "95",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "25% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "25% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 990,
+                          "widthInCm": 1,
+                          "heightInCm": 1,
+                          "volumeInCc": 990
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 495,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "Dark & Decadent",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/828e564d-c1b3-47cd-aab3-d9305216eea1_424178_1.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/VIDEOS/CIW/2025/4/16/7ef81589-58fa-4534-876a-994d8d56cfc4_424178_2.mp4",
+                            "thumbnailId": "NI_CATALOG/IMAGES/CIW/2025/11/28/828e564d-c1b3-47cd-aab3-d9305216eea1_424178_1.png",
+                            "type": "MEDIA_TYPE_VIDEO",
+                            "aspectRatio": {
+                              "width": 1,
+                              "height": 1
+                            }
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/a13f5f9c-764c-428d-9652-19aa733ffe4a_424178_2.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/913a689e-67e3-4f05-a8b9-b0fcf3ed1efe_424178_3.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/7f7b189d-f8a8-47e1-afe5-847e3dab3205_424178_4.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/572e3cfa-a960-4067-bdc6-affdc67809ab_424178_5.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/11/28/3f175595-6b19-44d0-984e-be2fe40d4b09_424178_6.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "4.3",
+                          "valueColor": "positive",
+                          "count": "1k",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"9IO9DDPHZK\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "C4FDDVSX9D",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "HE5UZBSE6G"
+                  },
+                  {
+                    "displayName": "NIC Ice Cream No Added Sugar Belgian Chocolate",
+                    "brand": "NIC Ice Cream",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "23OQ0GBBWR",
+                        "spinId": "U5XH76SAJ5",
+                        "quantityDescription": "100 ml",
+                        "displayName": "NIC Ice Cream No Added Sugar Belgian Chocolate",
+                        "brandName": "NIC Ice Cream",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/CIW/2025/7/12/8f9ebfc2-f0b3-4661-a8b8-91a930c11500_151606_1.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/12/671750cf-4065-4fab-a801-10795c85608a_151606_2.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/12/9d606bbf-d6b0-4edd-94ca-0318d855c48b_151606_3.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/12/a18ec528-56a2-4ca3-a065-b96441b81522_151606_4.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/12/0bcfc52a-1e2e-42a7-b5bc-c49853e1e909_151606_5.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "125",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "119",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "6",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "4% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "4% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 7,
+                          "widthInCm": 7,
+                          "heightInCm": 6,
+                          "volumeInCc": 294
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 76,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "Guilt-free indulgence with rich Belgian chocolate flavor.",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/12/8f9ebfc2-f0b3-4661-a8b8-91a930c11500_151606_1.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/12/671750cf-4065-4fab-a801-10795c85608a_151606_2.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/12/9d606bbf-d6b0-4edd-94ca-0318d855c48b_151606_3.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/12/a18ec528-56a2-4ca3-a065-b96441b81522_151606_4.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/12/0bcfc52a-1e2e-42a7-b5bc-c49853e1e909_151606_5.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "3.4",
+                          "valueColor": "positive",
+                          "count": "15",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"23OQ0GBBWR\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "HLWR3YO1F0",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "1H075NUMKB"
+                  },
+                  {
+                    "displayName": "Hocco Belgian Choconut Ice Cream Cup",
+                    "brand": "Hocco",
+                    "inStock": true,
+                    "isAvail": true,
+                    "variations": [
+                      {
+                        "skuId": "1CY3GGPMXF",
+                        "spinId": "OL3K9UJEOY",
+                        "quantityDescription": "110 ml x 2",
+                        "displayName": "Hocco Belgian Choconut Ice Cream Cup",
+                        "brandName": "Hocco",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/9623e462-0770-48c9-be53-38e4fa1c35a2_302816_1.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/b5c6f499-1d7a-4808-9e44-e1e610c08fd4_302816_2.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/f9af6a1b-f6c1-403d-8d51-82e5c3b64697_302816_3.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/c0b2120b-72b8-4371-b699-1edba1c05658_302816_4.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/1b3d65be-b1d5-45be-b86e-37d08dfef0a5_302816_5.png"
+                        ],
+                        "listingVariant": false,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "110",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "104",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "47.3/100 ml",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "6",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "5% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "5% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 220,
+                          "widthInCm": 1,
+                          "heightInCm": 1,
+                          "volumeInCc": 220
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 1,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 220,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/9623e462-0770-48c9-be53-38e4fa1c35a2_302816_1.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/b5c6f499-1d7a-4808-9e44-e1e610c08fd4_302816_2.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/f9af6a1b-f6c1-403d-8d51-82e5c3b64697_302816_3.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/c0b2120b-72b8-4371-b699-1edba1c05658_302816_4.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/1b3d65be-b1d5-45be-b86e-37d08dfef0a5_302816_5.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "3.9",
+                          "valueColor": "positive",
+                          "count": "346",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      },
+                      {
+                        "skuId": "085685OF5W",
+                        "spinId": "STJ30P46HW",
+                        "quantityDescription": "110 ml",
+                        "displayName": "Hocco Belgian Choconut Ice Cream Cup",
+                        "brandName": "Hocco",
+                        "imageIds": [
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/9623e462-0770-48c9-be53-38e4fa1c35a2_302816_1.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/b5c6f499-1d7a-4808-9e44-e1e610c08fd4_302816_2.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/f9af6a1b-f6c1-403d-8d51-82e5c3b64697_302816_3.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/c0b2120b-72b8-4371-b699-1edba1c05658_302816_4.png",
+                          "NI_CATALOG/IMAGES/CIW/2025/7/9/1b3d65be-b1d5-45be-b86e-37d08dfef0a5_302816_5.png"
+                        ],
+                        "listingVariant": true,
+                        "superSaver": false,
+                        "price": {
+                          "mrp": {
+                            "currencyCode": "INR",
+                            "units": "55",
+                            "nanos": 0
+                          },
+                          "offerPrice": {
+                            "currencyCode": "INR",
+                            "units": "52",
+                            "nanos": 0
+                          },
+                          "unitLevelPrice": "47.3/100 ml",
+                          "discountValue": {
+                            "currencyCode": "INR",
+                            "units": "3",
+                            "nanos": 0
+                          },
+                          "offerApplied": {
+                            "listingDescription": "5% OFF",
+                            "superOffer": false,
+                            "movThreshold": 0,
+                            "offerHighlights": [
+                              {
+                                "text": "5% OFF",
+                                "textColor": "colorPositive"
+                              }
+                            ]
+                          },
+                          "maxSaverPrice": null,
+                          "flashSalePriceDetails": null
+                        },
+                        "category": "Ice Creams",
+                        "dimensions": {
+                          "lengthInCm": 16,
+                          "widthInCm": 6,
+                          "heightInCm": 6,
+                          "volumeInCc": 576
+                        },
+                        "slotInfo": {
+                          "isAvail": true,
+                          "message": ""
+                        },
+                        "cartAllowedQuantity": {
+                          "allowedQuantity": 2,
+                          "quantityLimitBreachedMessage": "That’s all we have in stock at the moment!"
+                        },
+                        "inventory": {
+                          "inStock": true
+                        },
+                        "weightInGrams": 110,
+                        "volumetricWeight": 0,
+                        "subCategoryType": "",
+                        "secondaryQuantityDescription": "",
+                        "podId": "1398757",
+                        "couponLessOffers": [],
+                        "shortDescription": "Chocolate and nut ice cream for all occasions.",
+                        "externalPharmacyItem": false,
+                        "rxRequired": false,
+                        "variationTags": [],
+                        "medias": [
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/9623e462-0770-48c9-be53-38e4fa1c35a2_302816_1.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/b5c6f499-1d7a-4808-9e44-e1e610c08fd4_302816_2.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/f9af6a1b-f6c1-403d-8d51-82e5c3b64697_302816_3.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/c0b2120b-72b8-4371-b699-1edba1c05658_302816_4.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          },
+                          {
+                            "id": "NI_CATALOG/IMAGES/CIW/2025/7/9/1b3d65be-b1d5-45be-b86e-37d08dfef0a5_302816_5.png",
+                            "thumbnailId": "",
+                            "type": "MEDIA_TYPE_IMAGE",
+                            "aspectRatio": null
+                          }
+                        ],
+                        "attributeTags": [],
+                        "rating": {
+                          "value": "3.9",
+                          "valueColor": "positive",
+                          "count": "346",
+                          "backgroundColor": "#DFF9EE",
+                          "bgGradient": null,
+                          "ratingIconColor": "",
+                          "ratingCountTextColor": "",
+                          "ratingFontName": "FONT_NAME_INVALID",
+                          "ratingCountFontName": "FONT_NAME_INVALID"
+                        },
+                        "sla": null,
+                        "vegClassifier": "VEG_CLASSIFIER_INVALID",
+                        "emiInfo": null,
+                        "aiAttributeTags": [],
+                        "isWishlisted": false,
+                        "offerCallouts": [],
+                        "stealDealInfo": null,
+                        "offerPanels": []
+                      }
+                    ],
+                    "badges": [],
+                    "source": "",
+                    "analytics": {
+                      "screenName": "",
+                      "context": "{\"itemId\":\"085685OF5W\",\"parentPid\":\"P61GXMP4U1\",\"slotAvailability\":true}",
+                      "objectValue": "",
+                      "impressionObjectName": "item-impression",
+                      "clickObjectName": "click-item",
+                      "attributionContext": "",
+                      "extraFields": {},
+                      "position": 0
+                    },
+                    "productId": "WNU5ZN7FSC",
+                    "showQuantity": false,
+                    "adTrackingContext": "",
+                    "parentProductId": "XFPQEUXJOQ"
+                  }
+                ],
+                "itemStyle": {
+                  "width": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 0.333,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                  },
+                  "height": {
+                    "type": "TYPE_RELATIVE",
+                    "value": 1,
+                    "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                  }
+                },
+                "themedItemStyle": null,
+                "themeType": "THEME_TYPE_INVALID",
+                "variantAttributes": null
+              }
+            },
+            "footer": null,
+            "meta": null,
+            "analytics": {
+              "screenName": "",
+              "context": "{\"parentPid\":\"P61GXMP4U1\"}",
+              "objectValue": "",
+              "impressionObjectName": "impression-menu-widget",
+              "clickObjectName": "click-cta",
+              "attributionContext": "",
+              "extraFields": {
+                "collectionId": "95131",
+                "widgetId": "159322"
+              },
+              "position": 0
+            },
+            "animation": null,
+            "scrollAnchor": null,
+            "frequencyCapping": null,
+            "entityId": "159322",
+            "entityType": "IM_WIDGET"
+          },
+          "relevance": null
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.im.v1.InfoCard",
+            "title": "Seller Details",
+            "description": "<p>Seller Name: PJTJ TECHNOLOGIES PVT LTD<br>FSSAI Number: 10825005000197<br>Address: Khsra No.143/8, 9,11,12,13,14/1,14/2/1,18,19,20,21MIN,22MIN, Village Bohra Kalan, Sohna, Gurugram, Haryana, 122103, 122103, Gurgaon, Haryana<br><br>Customer Care: instamart.support@swiggy.in</p>",
+            "expand": true,
+            "viewType": "VIEW_TYPE_OUTER",
+            "analytics": null,
+            "additionalInfo": []
+          },
+          "relevance": null
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.im.v1.InfoCard",
+            "title": "Other Information",
+            "description": "<p>Country Of Origin: India. The Shelf life of this product is 365 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.</p>",
+            "expand": true,
+            "viewType": "VIEW_TYPE_OUTER",
+            "analytics": null,
+            "additionalInfo": []
+          },
+          "relevance": null
+        }
+      }
+    ],
+    "communication": null,
+    "firstOffsetRequest": true,
+    "ribbons": [],
+    "cacheExpiryTime": 300,
+    "nextFetch": 0,
+    "configs": {
+      "IM_PAGE_CONFIGS": {
+        "configInfo": [
+          {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.im.v1.PageConfigs",
+              "serviceabilityStatus": "",
+              "serviceabilityType": "",
+              "layoutId": 12216,
+              "podDetails": {
+                "podId": "1398757",
+                "cartConstraints": {
+                  "maxAllowedItemCount": 200,
+                  "maxAllowedWeightInGrams": 38000,
+                  "maxAllowedVolumeInCc": 100000,
+                  "bulkCartConstraints": {
+                    "minItemCount": 200,
+                    "minWeightInGrams": 15000
+                  }
+                },
+                "priority": "PRIORITY_INVALID",
+                "serviceabilityDetails": null,
+                "bucketId": "",
+                "itemFulfilmentPriority": 0
+              },
+              "podDetailsList": [
+                {
+                  "podId": "1398757",
+                  "cartConstraints": {
+                    "maxAllowedItemCount": 200,
+                    "maxAllowedWeightInGrams": 38000,
+                    "maxAllowedVolumeInCc": 100000,
+                    "bulkCartConstraints": {
+                      "minItemCount": 200,
+                      "minWeightInGrams": 15000
+                    }
+                  },
+                  "priority": "PRIORITY_PRIMARY",
+                  "serviceabilityDetails": null,
+                  "bucketId": "",
+                  "itemFulfilmentPriority": 0
+                }
+              ],
+              "discountInfo": null,
+              "showImLauncherDialog": false,
+              "metaInfo": "",
+              "showAiSearchResults": false,
+              "contextualDiscoveryWidgetShownOnSrp": false
+            },
+            "relevance": null
+          }
+        ]
+      }
+    },
+    "hasFooter": false,
+    "encodedIrctcInfo": "",
+    "searchResultsOffset": "0",
+    "isOnboarded": false,
+    "poiType": "",
+    "requestId": "e8368856-31de-4dce-a9a7-e5b64a07fbe6",
+    "statusCode": 0
+  },
+  "statusCode": 0
+}
